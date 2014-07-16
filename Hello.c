@@ -2,6 +2,5 @@
 void main()
 {
  printf("Hello");
- printf("Hiiiii");
- getch();
+ printf("Hiiii");
 } 
